@@ -20,9 +20,7 @@
 
 <img src="img/trab.svg" >
 
-🎶 *Make Them Suffer* – Bones  
-🎶 *Spiritbox* – Constance  
-🎶 *Virtual Riot* – Need/Get  
+🎮 *Moxter Game* – [Steam](https://store.steampowered.com/app/3217030/Moxter/) 
 
 <img src="img/sqti.svg">
 
