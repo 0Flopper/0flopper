@@ -18,7 +18,7 @@
 <p>🤖 <i>Battle Angel Alita</i> – Yukito Kishiro (Cyberpunk)</p>
 </p>
 
-<img src="img/ouvindo.svg" >
+<img src="img/trab.svg" >
 
 🎶 *Make Them Suffer* – Bones  
 🎶 *Spiritbox* – Constance  
@@ -31,5 +31,5 @@
 | 🎮 Discord    | [0flopper](https://discord.com/users/0flopper) |
 | 📧 Email      | [caiquematos@proton.me](mailto:caiquematos@proton.me) |
 
-<img src="img/Booye.svg" >
+<img src="img/booye.svg" >
 </div>
