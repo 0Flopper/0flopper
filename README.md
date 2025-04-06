@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/hero_banner.svg alt="Desenvolvedor Web e Game Developer com foco em Unreal Engine e tecnologias modernas"">
+<img src="img/hero_banner.svg">
 
 <img src="img/ghost.svg">
 
