@@ -1,13 +1,17 @@
 <div align="center">
-<img src="img/hero_banner.svg">
+<img src="img/hero_banner.svg alt="Desenvolvedor Web e Game Developer com foco em Unreal Engine e tecnologias modernas"">
 
 <img src="img/ghost.svg">
 
 <p><b>Meu nome é Caique Matos, um desenvolvedor apaixonado por tecnologia. Meu foco principal é o desenvolvimento de jogos com Unreal Engine, mas, atualmente, tenho explorado a área de desenvolvimento web. Nos meus momentos livres, gosto de testar novas tecnologias, ler e escutar uma boa música.</b></p>
 
-<img src="img/tech_stacks.svg">
+<p>
+.NET • C++ • Python • Java • JavaScript • React • Ruby • Svelte • Vue.js
+</p>
 
-<img src="img/estudando.svg" >
+<img src="img/tech_stacks.svg" alt="C++, Python, Ruby, JavaScript, Rails, React, Next.js, Tailwind, Java, C#, .NET">
+
+<img src="img/estudando.svg" alt="Estudando Java e Desenvolvimento Web">
 
 <p>Java ☕ (Aprofundando conceitos com <i>Effective Java – Joshua Bloch</i>)</p>
 
@@ -18,7 +22,7 @@
 <p>🤖 <i>Battle Angel Alita</i> – Yukito Kishiro (Cyberpunk)</p>
 </p>
 
-<img src="img/trab.svg" >
+<img src="img/trab.svg" alt="Projeto publicado na Steam: Moxter Game">
 
 🎮 *Moxter Game* – [Steam](https://store.steampowered.com/app/3217030/Moxter/) 
 
