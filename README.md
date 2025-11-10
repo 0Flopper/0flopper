@@ -9,7 +9,7 @@
 .NET • C++ • Python • Java • JavaScript • React • Ruby • Svelte • Vue.js
 </p>
 
-<img src="img/tech_stacks.svg" alt="C++, Python, Ruby, JavaScript, Rails, React, Next.js, Tailwind, Java, C#, .NET">
+<img src="img/tech_stack.svg" alt="C++, Python, Ruby, JavaScript, Rails, React, Next.js, Tailwind, Java, C#, .NET">
 
 <img src="img/estudando.svg" alt="Estudando Java e Desenvolvimento Web">
 
@@ -33,5 +33,5 @@
 | 🎮 Discord    | [0flopper](https://discord.com/users/0flopper) |
 | 📧 Email      | [caiquematos@proton.me](mailto:caiquematos@proton.me) |
 
-<img src="img/booye.svg" >
+<img src="img/booye!.svg" >
 </div>
