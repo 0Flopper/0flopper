@@ -1,6 +1,4 @@
 <div align="center">
-<img src="img/hero_banner.svg">
-
 <img src="img/ghost.svg">
 
 <p><b>Meu nome é Caique Matos, um desenvolvedor apaixonado por tecnologia. Meu foco principal é o desenvolvimento de jogos com Unreal Engine, mas, atualmente, tenho explorado a área de desenvolvimento web. Nos meus momentos livres, gosto de testar novas tecnologias, ler e escutar uma boa música.</b></p>
